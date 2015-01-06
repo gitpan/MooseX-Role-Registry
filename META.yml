@@ -1,0 +1,19 @@
+---
+abstract: 'Moose Role which provides a Registry lookup functionality'
+author:
+  - 'binary.com <perl@binary.com>'
+build_requires: {}
+dynamic_config: 1
+generated_by: 'ExtUtils::MakeMaker version 6.64, CPAN::Meta::Converter version 2.142060'
+license: unknown
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.4.html
+  version: '1.4'
+name: MooseX-Role-Registry
+no_index:
+  directory:
+    - t
+    - inc
+resources:
+  repository: https://github.com/binary-com/perl-MooseX-Role-Registry.git
+version: '1.00'

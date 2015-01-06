@@ -1,0 +1,31 @@
+{
+   "abstract" : "Moose Role which provides a Registry lookup functionality",
+   "author" : [
+      "binary.com <perl@binary.com>"
+   ],
+   "dynamic_config" : 1,
+   "generated_by" : "ExtUtils::MakeMaker version 6.64, CPAN::Meta::Converter version 2.142060",
+   "license" : [
+      "unknown"
+   ],
+   "meta-spec" : {
+      "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
+      "version" : "2"
+   },
+   "name" : "MooseX-Role-Registry",
+   "no_index" : {
+      "directory" : [
+         "t",
+         "inc"
+      ]
+   },
+   "release_status" : "stable",
+   "resources" : {
+      "repository" : {
+         "type" : "git",
+         "url" : "https://github.com/binary-com/perl-MooseX-Role-Registry.git",
+         "web" : "https://github.com/binary-com/perl-MooseX-Role-Registry"
+      }
+   },
+   "version" : "1.00"
+}
